@@ -1,0 +1,12 @@
+small_test.gr (my_mid)
+678
+37
+3
+0
+|V| = 20000 |e| = 70000
+Total SCC are -> 1297
+Time taken: 0.00s
+/* Number of iteration 4 */
+
+random_1 (my_mid)
+

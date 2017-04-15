@@ -1,0 +1,11 @@
+How To RUN this code:
+i) Make to compile the code
+ii) make run arg1=fileName.txt arg2=(0/1)
+	arg2 == 0 means it will  print colors
+	arg2 == 1 means it will not print colors
+
+References:-
+i)http://www.nvidia.com/content/GTC/posters/2010/I17-Computing-Strongly-Connected-Components-in-Parallel-on-CUDA.pdf
+ii)http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6012868&tag=1
+iii) http://www.cse.psu.edu/~kxm85/papers/Multistep_IPDPS14_slides.pdf
+iv) http://www.sandia.gov/~srajama/publications/BFS_and_Coloring.pdf

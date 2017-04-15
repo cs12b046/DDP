@@ -1,0 +1,34 @@
+/* Reading done */
+/* Converted into CSR */
+/* Sorting started */
+/* Sorting done */
+/* Converted into CSR (G_Prime) */
+Take care of it
+Take care of it
+Take care of it
+============COLORS==============
+0 --> 0
+1 --> 5
+2 --> 2
+3 --> 3
+4 --> 5
+5 --> 5
+6 --> 11
+7 --> 12
+8 --> 11
+9 --> 11
+10 --> 11
+11 --> 11
+12 --> 12
+=============SCC================
+0 
+2 
+3 
+1 4 5 
+6 8 9 10 11 
+7 12 
+================================
+|V| = 13 |e| = 19
+Total SCC are -> 6
+Time taken: 0.02s
+/* Number of iteration 1 */
