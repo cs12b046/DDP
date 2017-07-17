@@ -1,3 +1,5 @@
+Single GPU
+===========
 For computing SCCs in Single GPU:
 	i) GO to single_gpu directory
 	ii) nvcc -o scc coloring_scc.cu
